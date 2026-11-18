@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+# Add the live domain's sitemap URL after launch.
